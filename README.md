@@ -17,8 +17,6 @@ Si le client achète 2x le même produit, il doit y avoir 2 références différ
 
 L'idée globale serait de générer par exemple 20 numéros de série pour un produit en BO, et que ces numéros se placent automatiquement sous la description du produit quand un client achète ce produit. Chaque numéro de série utilisé ne pourra plus l'être.
 
-Concernant le paiement : 30% avant la réalisation, le reste à la livraison.
-
 Informations ajoutées le 10 avril 2015 12:11:18 :
 
 Bonjour, ci dessous un complément d'information : 
